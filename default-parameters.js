@@ -1,5 +1,6 @@
 
-//default-parameters : 
+// default-parameters : JavaScript default parameters allow function arguments to be initialized
+// with default values if no value or undefined is passed.
 
 function main(a=100,b) {
     return a+b
