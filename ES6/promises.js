@@ -5,7 +5,6 @@ const myPromoise = new Promise((resolve, reject) => {
         resolve("The operation was sucessfully");
     } else {
         reject("The operation failed")
-
     }
 
 })
