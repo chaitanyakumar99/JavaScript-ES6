@@ -1,5 +1,5 @@
 const myPromoise = new Promise((resolve, reject) => {
-    const success = true;
+    const success = false;
 
     if (success) {
         resolve("The operation was sucessfully");
